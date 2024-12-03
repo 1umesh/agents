@@ -1,6 +1,0 @@
-langchain_community
-langchain
-torch>=1.11.0
-sentence-transformers>=2.6.0
-langchain-huggingface
-openai

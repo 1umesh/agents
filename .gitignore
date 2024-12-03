@@ -6,5 +6,5 @@ openai_module.py
 hug.py
 action.py
 main.py
-readme.py
-requirements.py
+readme.txt
+requirements.txt
