@@ -1,5 +1,5 @@
 .env
-.test
+.test.py
 .sample_function
 .prompts
 .openai_module
